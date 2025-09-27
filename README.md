@@ -4,7 +4,7 @@
 This repository contains solutions to three interactive Flutter widget challenges. Each challenge focuses on core Flutter concepts such as list manipulation, drag-and-drop physics, and advanced animations.
 
 **Result:**
-![Result](widgets_challenge.png)
+<img src="widgets_challenge.png" alt="Challenge 1 Result" width="400"/>
 ---
 
 ## 📌 Challenge 1: Interactive Dismissible Lists
@@ -21,7 +21,7 @@ A task management widget where users can swipe to delete tasks and drag to reord
 * ✅ Includes 3+ sample tasks
 
 **Result:**
-![Challenge 1 Result](taskManagment.png)
+<img src="taskManagment.png" alt="Challenge 1 Result" width="400"/>
 
 **Repo Link:** [GitHub Repo - Challenge 1](https://github.com/yoyo3257/Flutter-Widget-Exploration/tree/main/lib/interactive_dismissible_lists)
 
@@ -40,7 +40,7 @@ A drag-and-drop mini simulation where users drag colored balls into matching col
 * ✅ Success indication for correct matches
 
 **Result:**
-![Challenge 2 Result](physicsGame.png)
+<img src="physicsGame.png" alt="Challenge 1 Result" width="400"/>
 
 **Repo Link:** [GitHub Repo - Challenge 2](https://github.com/yoyo3257/Flutter-Widget-Exploration/tree/main/lib/interactive_physics_widget)
 
@@ -60,7 +60,7 @@ A looping loading animation using an `AnimationController` with multiple Tween a
 * ✅ Smooth curves for animation
 
 **Result:**
-![Challenge 3 Result](advancedAnimatedChain.png)
+<img src="advancedAnimatedChain.png" alt="Challenge 1 Result" width="400"/>
 
 **Repo Link:** [GitHub Repo - Challenge 3](https://github.com/yoyo3257/Flutter-Widget-Exploration/tree/main/lib/advanced_animation_chain)
 
